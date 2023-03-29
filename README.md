@@ -7,4 +7,4 @@
 2. How to use docker
    도커 컨테이너 실행
 3. How to use git in docker container
-   github계정에 ssh키 저장 -> 저장소 만들기 -> 저장소 클론 -> 수정 및 push
+   GitHub계정에 ssh키 저장 -> 저장소 만들기 -> 저장소 클론 -> 수정 및 Push
